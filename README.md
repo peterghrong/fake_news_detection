@@ -33,4 +33,12 @@ The repository contains 2 folders and 2 file:
 https://www.uvic.ca/engineering/ece/isot/datasets/fake-news/index.php
 
 ## Usage
+The webapp runs locally from terminal or command line. 
+To run the webapp, follow the following steps:
+1. Clone the sub-directory **FinalProject** 
+2. Go to (https://drive.google.com/file/d/17SGESVVtq10bkWkT7gkrNNvTCZj3rvO5/view?usp=sharing) download **my_pipeline.joblib** and place **my_pipeline.joblib** directly under the directory FinalProject. This step is due to the large size of the joblib file.
+3. Navigate to the **Final Project** directory and use command `source env/bin/activate` to activate the virtual enviroment
+4. Use command `pip install -r requirements.txt` to install all the neccasary import packages
+5. Use command `python app.py` to initiate the webapp. This step could take 2-5 minutes due to the complexity of the predicotor model.
 
+Note: The webapp is hosted at [http://127.0.0.1:5000/]
