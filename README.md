@@ -21,9 +21,7 @@ The repository contains 2 folders and 2 file:
     - True.csv
 - FinalProject
   - __pycache__
-      - predictor.cpython-38.pyc
   - env
-    - predictor.cpython-38.pyc
   - templates
     - fake.html
     - real.html
