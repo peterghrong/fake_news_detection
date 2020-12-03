@@ -56,6 +56,6 @@ Note: The webapp is hosted at [http://127.0.0.1:5000/]
 
 ## Sample output:
 
-!(/Users/peterrong/Desktop/Screen Shot 2020-12-02 at 10.08.19 PM.png)
+![Im1](https://github.com/peterghrong/fake_news_detection/blob/master/SampleOutput/FakeNews.png)
 !(Users/peterrong/Desktop/Screen Shot 2020-12-02 at 10.07.23 PM.png)
 !(Users/peterrong/Desktop/Screen Shot 2020-12-02 at 10.07.54 PM.png)
