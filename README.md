@@ -33,7 +33,10 @@ The repository contains 2 folders and 2 file:
     -   app.py
     -   predictor.py
     -   requirements.txt
-
+- SampleOutput
+    - RealNews.png
+    - FakeNews.png
+    - InputPage.png
 ## Dataset
 
 https://www.uvic.ca/engineering/ece/isot/datasets/fake-news/index.php
