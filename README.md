@@ -1,4 +1,4 @@
-# MAIS202 FALL 2020 FINAL PROEJCT: Fake News Detector
+# MAIS202 FALL 2020 FINAL PROJECT: Fake News Detector
 
 ## Abstract
 
