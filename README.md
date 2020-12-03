@@ -19,6 +19,18 @@ The repository contains 2 folders and 2 file:
   - dataset
     - Fake.csv
     - True.csv
+- FinalProject
+  - __pycache__
+      - predictor.cpython-38.pyc
+  - env
+    - predictor.cpython-38.pyc
+  - templates
+    - fake.html
+    - real.html
+    - take_input.html
+  - app.py
+  - predictor.py
+  - requirements.txt
 ## Dataset
 https://www.uvic.ca/engineering/ece/isot/datasets/fake-news/index.php
 
