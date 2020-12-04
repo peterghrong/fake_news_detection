@@ -2,7 +2,7 @@
 
 ## Abstract
 
-This is the McGill MAIS202's Final Project. The goal in this project is to give a "true" or "fake" classification on any news. The proposed and implemented algorithm is the classical Naive Bayes Algorithm. In addition, I have implemented extensive natural language pre-processing, methods such as "stop-words removal" and "lemmatisation" were used to improve the classification accuracy. After Grid-searching on the Multinomial Algorithm and by implementing the best parameters, a test accuracy of 97% was acheived.
+This is the McGill MAIS202's Final Project. The goal in this project is to produce a "true" or "fake" classification on any news. The proposed and implemented algorithm is the classical Naive Bayes Algorithm. In addition, I have implemented extensive natural language pre-processing, methods such as "stop-words removal" and "lemmatisation" were used to improve the classification accuracy. After Grid-searching on the Multinomial Algorithm and by implementing the best parameters, a test accuracy of 97% was achieved.
 
 ## Repository Structure
 
